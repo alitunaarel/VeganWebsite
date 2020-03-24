@@ -1,1 +1,1 @@
-####Vegan website for Wegan shops, just an exercice, might be improved
+#### Vegan website for Wegan shops, just an exercice, might be improved
